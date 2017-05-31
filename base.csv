@@ -1,0 +1,107 @@
+Marca,Modelo,Ano,Quilometragem,Novo,Localização,Câmbio,Combustível,Ar Condicionado,Vendedor,Carroceria,Motorização ex(2.0),Turbo (0/1),Fipe,Preço
+Citroen,Aircross,2017,0,S,São Paulo (SP),Automatico,Flex,S,Loja,Minivan,1.6,N,54.832,75.695
+Audi,A1,2012,56.000,N,São Paulo (SP),Automatico,Gasolina,S,Concessionaria,Esportivo,1.4,S,53.687,54.900
+Alfa Romeo,145,1998,79.000,N,São Paulo (SP),Manual,Gasolina,S,Particular,Esportivo,2.0,N,14.371,17.900
+Audi,A3,2002,59.145,N,Campinas (SP),Manual,Gasolina,S,Loja,Esportivo,1.8,S,18.164,19.900
+Fiat,Siena,2001,263.000,N,São Bernado do Campo (SP),Manual,Gasolina,N,Concessionaria,Sedan,1.8,N,10.976,10.900
+Chevrolet,Malibu,2011,118.000,N,Atibaia (SP),Automatico,Gasolina,S,Particular,Esportivo,2.4,N,40.619,36.900
+Ford,GT,2005,743,N,São Paulo (SP),Manual,Gasolina,S,Loja,Esportivo,5.4,N,2.000.000,1.990.000
+Ford,Fusion,2009,1.000,N,Atibaia (SP),Manual,Gasolina,S,Concessionaria,Sedan,2.3,N,30.446,37.500
+Mitsubishi,ASX,2012,3.000,N,Santo André (SP),Manual,Flex,S,Particular,Esportivo,2.0,N,56.947,39.000
+Citroen,C3,2009,100.000,N,São Paulo (SP),Manual,Flex,S,Loja,Hatchback,1.6,N,19.842,17.000
+Honda,Civic,2010,189.000,N,São Paulo (SP),Manual,Flex,S,Concessionaria,Sedan,1.8,N,34.113,40.000
+Hyundai,Vera Cruz,2012,100.000,N,Atibaia (SP),Manual,Flex,S,Particular,Esportivo,3.8,N,66.471,56.000
+Honda,City,2015,89.000,N,Araras (SP),Automatico,Gasolina,S,Loja,Sedan,1.5,N,55.346,43.000
+Citroen,C4,2013,120.000,N,Itu (SP),Manual,Gasolina,S,Concessionaria,Hatchback,1.5,N,48.050,42.500
+Fiat,Freemont,2015,19.000,N,São Paulo (SP),Automatico,Gasolina,S,Loja,Esportivo,2.4,N,92.014,95.000
+Chevrolet,Captiva,2009,104.590,N,Santo André (SP),Automatico,Gasolina,S,Concessionaria,Esportivo,2.4,N,79.710,38.600
+Chevrolet,Corvette,2015,2.501,N,Araras (SP),Automatico,Gasolina,S,Particular,Esportivo,6.2,N,629.500,899.000
+Volkswagen,Fusca,1977,70.000,N,São Paulo (SP),Manual,Gasolina,N,Loja,Sedan,1.6,N,11.300,9.200
+Volkswagen,Fusca,1983,111.111,N,São Paulo (SP),Manual,Gasolina,N,Concessionaria,Sedan,1.3,N,17.263,23.000
+Ford,Expedition,2011,100,N,Itu (SP),Automatico,Gasolina,S,Loja,Esportivo,4.6,N,650.000,599.000
+Hyundai,Azera,2010,100,N,São Jose dos Campos (SP),Automatico,Gasolina,S,Concessionaria,Sedan,3.3,N,40.141,37.900
+Mitsubishi,Pajero TR4,2013,63.000,N,São Paulo (SP),Manual,Flex,S,Particular,Esportivo,2.0,N,43.790,44.890
+Hyundai,Veloster,2013,47.000,N,São Paulo (SP),Manual,Gasolina,S,Loja,Hatchback,1.6,N,52.033,52.390
+Hyundai,Creta,2017,0,S,São Paulo (SP),Automatico,Gasolina,S,Concessionaria,Esportivo,1.6,N,91.156,149.990
+Mitsubishi,Airtrek,2007,166.405,N,Monte Azul Paulista (SP),Manual,Gasolina,S,Loja,Esportivo,2.0,N,42.047,27.450
+Hyundai,Tucson,2005,107.677,N,São Paulo (SP),Manual,Gasolina,S,Concessionaria,Hatchback,2.0,N,25.860,27.500
+Renault,Megane,2000,275.000,N,Diadema (SP),Manual,Gasolina,S,Particular,Perua/Sw,1.6,N,8.770,7.500
+Mitsubishi,L200 Triton,2017,0,S,São Paulo (SP),Automatico,Diesel,S,Loja,Picape,2.4,N,77.730,135.500
+Renault,Sandero,2012,67.000,N,São Paulo (SP),Manual,Flex,S,Concessionaria,Hatchback,1.0,N,21.052,23.000
+Fiat,Doblo,2006,140.000,N,São Paulo (SP),Manual,Flex,N,Particular,Minivan,1.8,N,26.175,27.000
+Volkswagen,Focus,2008,130.000,N,São Paulo (SP),Manual,Gasolina,S,Loja,Sedan,1.6,N,18.403,30.000
+Fiat,Palio,2015,50.000,N,São Paulo (SP),Manual,Flex,S,Concessionaria,Hatchback,1.0,N,30.765,30.000
+Renault,Clio,2001,180.000,N,São Paulo (SP),Manual,Flex,N,Particular,Hatchback,1.0,N,11.597,8.000
+Peugeot,408,2017,0,S,São Paulo (SP),Automatico,Flex,S,Loja,Sedan,1.6,S,78.121,133.900
+Honda,HR-V,2017,0,S,São Paulo (SP),Automatico,Flex,S,Loja,SUV,1.8,N,73.172,155.000
+Mitsubishi,L200,1997,24.000,N,Cuiabá (MT),Manual,Diesel,N,Particular,Picape,2.5,S,17.015,22.000
+Toyota,Hilux SW4,2017,0,S,São Paulo (SP),Automatico,Diesel,S,Concessionaria,SUV,2.8,S,209.051,314.900
+Peugeot,2008,2017,0,S,São Paulo (SP),Automatico,Flex,S,Concessionaria,SUV,1.6,N,63.875,88.500
+Hyundai,Santa Fé,2017,0,S,São Paulo (SP),Automatico,Gasolina,S,Loja,SUV,3.3,N,181.990,184.900
+Peugeot,308CC,2014,40.130,N,Rio Grande Do Sul (RS),Automatico,Gasolina,S,Loja,Conversível,1.6,S,100.184,117.900
+Mitsubishi,Eclipse,1995,98.000,N,Niterói (RJ),Manual,Gasolina,S,Particular,Cupê,2.0,S,31.985,30.000
+Toyota,Etios,2016,0,S,São Paulo (SP),Automatico,Flex,S,Loja,Hatchback,1.5,N,40.012,47.600
+Mitsubishi,Lancer,2011,75.770,N,São Paulo (SP),Automatico,Gasolina,S,Loja,Sedan,2.0,N,59.020,41.800
+Honda,Accord,2017,0,S,São Paulo (SP),Automatico,Gasolina,S,Concessionaria,Sedan,3.5,N,136.800,162.500
+Chevrolet,Chevette,1986,90.500,N,Mauá (SP),Manual,Álcool,N,Particular,Cupê,1.6,N,4.738,12.500
+Hyundai,IX35,2017,0,S,São Paulo (SP),Automatico,Flex,S,Loja,SUV,2.0,N,108.087,96.500
+Peugeot,RCZ,2015,9.125,N,Canoas (RS),Automatico,Gasolina,S,Particular,Cupê,1.6,S,106.852,114.900
+Nissan,Frontier,2015,43.100,N,São Paulo (SP),Manual,Diesel,N,Loja,Picape,2.5,S,74.451,80.400
+Honda,Fit,2017,0,S,São Paulo (SP),Manual,Flex,S,Concessionaria,Minivan,1.5,N,51.403,62.000
+Volkswagen,Saveiro,1989,100.000,N,Rio Negro (PR),Manual,Gasolina,N,Loja,Picape,1.6,N,7.110,6.300
+Toyota,Hilux,2017,0,S,São Paulo (SP),Automatico,Diesel,S,Loja,Picape,2.8,N,120.055,166.000
+Ford,Del Rey,1984,68.000,N,Brasilia (DF),Manual,Álcool,N,Particular,Sedan,1.6,N,3.279,17.900
+Honda,CRV,2017,0,S,São Paulo (SP),Automatico,Flex,S,Loja,SUV,2.0,N,144.008,188.000
+Peugeot,206,2004,64.550,N,Limeira (SP),Manual,Gasolina,S,Particular,Hatchback,1.0,N,11.463,11.000
+Hyundai,Tucson,2017,0,S,São Paulo (SP),Automatico,Gasolina,S,Loja,SUV,1.6,N,120.599,195.000
+Volkswagen,Variant,1974,38.500,N,São Paulo (SP),Manual,Gasolina,N,Particular,Perua/SW,1.6,N,18.592,15.000
+Peugeot,Boxer,2015,52.550,N,São Jose Do Rio Preto (SP),Manual,Diesel,S,Loja,Van,2.3,N,62.228,87.800
+Volkswagen,Gol,1994,180.500,N,São Paulo (SP),Manual,Gasolina,N,Particular,Hatchback,1.6,N,7.911,9.500
+Toyota,Corolla,2017,0,S,São Paulo (SP),Automatico,Flex,S,Loja,Sedan,2.0,N,83.988,153500
+Chevrolet,Spin,2013,49.781,N,Recife(PE),Manual,Flex,S,Concessionaria,Minivan,1.8,N,35.222,34.990
+Chevrolet,Sonic,2013,90.000,N,Belo Horizonte(MG),Manual,Flex,S,Concessionaria,Hatchback,1.6,N,32.054,29.990
+Chevrolet,Prisma,2012,89.025,N,Belém(PA),Manual,Flex,S,Concessionaria,Sedan,1.4,N,21.490,21.490
+Chevrolet,Onix,2014,45.000,N,São Paulo(SP),Manual,Flex,S,Loja,Hatchback,1.0,N,32.797,33.890
+Chevrolet,Montana,2009,88.477,N,São José(SC),Manual,Flex,N,Concessionaria,Picape,1.4,N,20.196,21.990
+Chevrolet,Cruze,2012,60.030,N,Fortaleza(CE),Automatico,Flex,S,Concessionaria,Hatchback,1.8,N,44.956,43.990
+Chevrolet,Corvette,2014,3.000,N,Limeira (SP),Automatico,Gasolina,S,Loja,Conversível,6.2,N,580.000,580.000
+Chevrolet,Chevette,1987,109.455,N,São Paulo(SP),Manual,Álcool,N,Particular,Cupê,1.6,N,10.900,10.900
+Chevrolet,Captiva,2009,120.000,N,São Paulo(SP),Automatico,Gasolina,S,Loja,Utilitário Esportivo,3.6,N,38.656,39.900
+Chevrolet,Blazer,2008,188.000,N,Uberlândia(MG),Manual,Flex,S,Loja,Utilitário Esportivo,2.4,N,31.798,29.900
+Chevrolet,Astra,2005,140.000,N,Santo André (SP),Manual,Flex,S,Loja,Sedan,2.0,N,21.100,18.900
+Chevrolet,Kadett,1995,69.000,N,São Paulo(SP),Manual,Gasolina,S,Particular,Conversível,2.0,N,29.000,29.000
+Chevrolet,Opala,1982,100.000,N,Franca(SP),Manual,Álcool,N,Particular,Cupê,2.5,N,13.000,13.000
+Chevrolet,Tracker,2014,51.000,N,São Paulo(SP),Automatico,Flex,S,Loja,Utilitário Esportivo,1.8,N,63.043,66.890
+Chevrolet,Vectra,2010,85.000,N,Goiânia(GO),Manual,Flex,S,Loja,Hatchback,2.0,N,28.873,28.000
+Chevrolet,Zafira,2001,180.000,N,São Bernado do Campo (SP),Manual,Gasolina,S,Loja,Minivan,2.0,N,17.744,17.900
+Fiat,500,2011,59.980,N,Santo André (SP),Manual,Flex,S,Loja,Hatchback,1.4,N,30.260,29.790
+Fiat,Brava,2000,118.231,N,Rio de Janeiro(RJ),Manual,Flex,S,Particular,Hatchback,1.6,N,10.192,10.000
+Fiat,Bravo,2011,79.321,N,Belo Horizonte(MG),Manual,Flex,S,Loja,Hatchback,1.8,N,30.510,31.900
+Fiat,Idea,2006,152.000,N,Santo André (SP),Manual,Flex,S,Loja,Minivan,1.4,N,18.859,22.900
+Fiat,Linea,2010,131.000,N,Santo André (SP),Manual,Flex,S,Loja,Sedan,1.9,N,26.004,24.900
+Fiat,Marea,2000,163.000,N,São Paulo(SP),Manual,Gasolina,S,Particular,Perua/SW,2.0,N,10.362,9.000
+Fiat,Mobi,2017,0,S,São Bernado do Campo (SP),Manual,Flex,N,Loja,Hatchback,1.0,N,28.999,28.999
+Audi,A3,2003,120000,N,São Paulo (SP),Automatico,Gasolina,S,Loja,Hatchback,"1,8",S,20907,17900
+Audi,A3,2002,59175,N,Campinas (SP),Manual,Gasolina,S,Loja,Hatchback,"1,8",N,17984,19990
+Audi,A3,2000,225000,N,São Paulo (SP),Manual,Gasolina,S,Particular,Hatchback,1.8,S,15804,15000
+Volkswagen,Gol,2017,0,S,Belo Horizonte(MG),Manual,Flex,N,Loja,Hatchback,1.0,N,32.990,32.990
+Volkswagen,Gol,2016,0,S,Campos Novos(SC),Manual,Flex,N,Concessionaria,Hatchback,1.0,N,31.217,40.170
+Volkswagen,Gol,2012,100.000,N,São José dos Campos(SP),Manual,Flex,N,Loja,Hatchback,1.0,N,18.900,18.900
+Volkswagen,Jetta,2013,67.000,N,São Paulo(SP),Automatico,Flex,S,Loja,Sedan,2.0,N,51.716,52.890
+Volkswagen,Jetta,2013,49.800,N,São Bernado do Campo (SP),Automatico,Flex,S,Loja,Sedan,2.0,N,51.716,50.000
+Volkswagen,Voyage,2010,89.002,N,Rio de Janeiro(RJ),Manual,Flex,S,Loja,Sedan,1.0,N,22.022,23.899
+Volkswagen,Voyage,2011,80.000,N,Belém(PA),Manual,Flex,S,Concessionaria,Sedan,1.0,N,24.505,26.500
+Volkswagen,Voyage,2013,66.000,N,Belo Horizonte(MG),Manual,Flex,S,Concessionaria,Sedan,1.0,N,28.900,28.900
+Ford,Fiesta,2017,0,S,Cotia(SP),Manual,Flex,S,Concessionaria,Hatchback,1.6,N,44.627,49.990
+Ford,Fiesta,2015,44.000,N,São Paulo(SP),Automatico,Flex,S,Loja,Hatchback,1.6,N,50.091,48.890
+Ford,Fiesta,2015,37.000,N,São Paulo(SP),Manual,Flex,S,Loja,Hatchback,1.5,N,36.834,36.890
+Ford,Focus,2015,48.933,N,São Paulo(SP),Automatico,Flex,S,Loja,Sedan,2.0,N,53.127,53.590
+Ford,Focus,2015,56.156,N,Salvador(BA),Automatico,Flex,S,Concessionaria,Hatchback,2.0,N,53.127,51.900
+Ford,Focus,2017,0,S,Porto Alegre(RS),Manual,Flex,S,Concessionaria,Hatchback,1.6,N,67.510,69.900
+Ford,Fusion,2016,1700,N,Blumenau(SC),Automatico,Gasolina,S,Loja,Sedan,2.0,N,136.817,144000
+Ford,Fusion,2015,42760,N,São Paulo(SP),Automatico,Flex,S,Loja,Sedan,2.5,N,86.838,78900
+Nissan,March,2012,115586,N,São Paulo(SP),Manual,Flex,S,Concessionaria,Hatchback,1.0,N,24444,25990
+Nissan,March,2016,27852,N,São Paulo(SP),Manual,Flex,S,Loja,Hatchback,1.0,N,31830,30500
+Nissan,March,2012,77116,N,São Paulo(SP),Manual,Flex,S,Loja,Hatchback,1.0,N,23833,27800
+Nissan,March,2017,0,S,São Paulo(SP),Manual,Flex,S,Concessionaria,Hatchback,1.0,N,37973,37990
+Nissan,March,2017,0,S,São Paulo(SP),Manual,Flex,S,Concessionaria,Hatchback,1.6,N,43726,46290
