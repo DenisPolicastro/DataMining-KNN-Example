@@ -1,7 +1,7 @@
 library(rpart)
 library(class)
 #Reading Data
-cars <- read.csv(file="c:/Users/Denis Policastro/Downloads/Mackenzie/Mineração/base.csv", header=TRUE, sep=",")
+cars <- read.csv(file="./base.csv", header=TRUE, sep=",")
 
 options(max.print=2100)
 
